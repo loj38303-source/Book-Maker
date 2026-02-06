@@ -1,0 +1,8 @@
+{
+  "name": "Lumina AI Studio",
+  "description": "An advanced AI workspace for chat and professional book/PDF design with Canva-compatible layouts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
